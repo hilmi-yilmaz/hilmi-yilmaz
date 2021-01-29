@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hilmi Yilmaz</h1>
 <h3 align="center">I am a Software Engineering student at Codam Coding College.</h3>
 
-- 🔭 I’m currently working on [ft_printf, which is a function that replicates the C printf function.](https://github.com/hilmi-yilmaz/ft_printf)
+- 🔭 I’m currently working on ft_server, in which I will use nginx to setup a web server.
 
 - 🌱 I’m currently learning **Programming in C, Artificial Intelligence and Data Science.**
 
