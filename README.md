@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hilmi Yilmaz</h1>
-<h3 align="center">I am a Software Engineering student and IT-assistant at Codam Coding College.</h3>
+<h3 align="center">I am a Software Engineering student at Codam Coding College.</h3>
 
-- 🔭 I’m currently working on [AdventOfCode2021](https://github.com/hilmi-yilmaz/AdventOfCode2021) and [push_swap](https://github.com/hilmi-yilmaz/push_swap)
+- 🔭 I’m currently working on Minishell (a replica of a Unix shell).
 
-- 🌱 I’m currently learning **Programming in C and Rust and some SysAdmin stuff.**
+- 🌱 I’m currently learning **Programming in C and some System Administration stuff.**
 
 - 💬 Ask me about **C, Linux, Python.**
 
