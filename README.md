@@ -1,14 +1,9 @@
-<h1 align="center">Hi 👋, I'm Hilmi Yilmaz</h1>
-<h3 align="center">I am a Software Engineering student at Codam Coding College.</h3>
+<h1 align="left">Hi 👋, I'm Hilmi</h1>
+<h3 align="left">I am a Software Developer at Crisp: an online supermarket</h3>
 
-- 🔭 I’m currently working on Minishell (a replica of a Unix shell).
+I am writing software in React, TypeScript, PHP and NodeJs.
+Currently working on improving Crisp's warehouse processes and trying to start my own SaaS called Bookerrr (in private development).
 
-- 🌱 I’m currently learning **Programming in C and some System Administration stuff.**
-
-- 💬 Ask me about **C, Linux, Python.**
-
-- 📫 How to reach me **hilmiyilmaz.1998@gmail.com**
-
-- ⚡ Fun fact **I love playing futsal!**
+The projects on my GitHub are from my period at Codam: a programming school in the heart of Amsterdam.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hilmi-yilmaz&show_icons=true&locale=en" alt="hilmi-yilmaz" /></p>
